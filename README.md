@@ -1,4 +1,4 @@
-RailsAdmin Rollincode Theme
+RailsAdmin Original Rollincode Theme Readme
 --------------------
 
 [![Gem Version](https://badge.fury.io/rb/rails_admin_rollincode.svg)](https://badge.fury.io/rb/rails_admin_rollincode)
